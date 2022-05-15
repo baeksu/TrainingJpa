@@ -14,4 +14,5 @@ public class Order {
     @Enumerated(EnumType.STRING)//순서가 바뀌거나 하면 장애가 발생할 수도 있기때문에!! String!!!
     private OrderStatus status;
 
+    private int test;
 }
