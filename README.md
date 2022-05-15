@@ -1,3 +1,1 @@
-# TrainingJpa
-# TrainingJpa
-# TrainingJpa
+# JPA 실습 해보기!
